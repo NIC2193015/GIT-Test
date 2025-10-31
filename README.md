@@ -14,3 +14,6 @@ Perfect for testing your Python environment or putting your awesome Python skill
 
 ## What it does
 - Prints “Hello, world! This is the complicated Python script ever written.”
+
+## Server
+The image I attached is a picture of my cobbled together server with zip-tied Noctua fans to the front to cool the epic Seagate Exos drives.
